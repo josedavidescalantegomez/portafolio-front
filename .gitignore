@@ -8,6 +8,9 @@ out/
 # Production
 build/
 
+# claves ssh
+id_ed25519*
+
 # Debug
 npm-debug.log*
 
